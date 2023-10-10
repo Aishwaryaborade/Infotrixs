@@ -1,1 +1,1 @@
-# Infotrixs
+I have developed a REST API using VS Code and SQL in STS. I utilized the Angular framework and Java language to ensure seamless functionality for an API system that allows users to sign up, log in, and manage their profiles. The system includes functionalities such as user input validation and the storage of user data in a database. It's all about enhancing user experiences, making them smoother and more secure! 
